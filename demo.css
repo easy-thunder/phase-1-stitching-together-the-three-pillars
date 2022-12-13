@@ -34,3 +34,14 @@ article.media-post > footer {
 article.media-post > footer ul {
   list-style-type: none;
 }
+
+
+likeClick{
+  color: red;
+  background-color: rgba(0, 115, 255, 0.133);
+  width: 3.5%
+
+}
+
+
+
